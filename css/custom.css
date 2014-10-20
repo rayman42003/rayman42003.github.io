@@ -16,8 +16,8 @@ body {
     background: -ms-linear-gradient(-45deg, rgba(35,207,193,1) 0%, rgba(30,71,235,0.65) 68%, rgba(30,71,235,0.48) 100%);
     background: linear-gradient(135deg, rgba(35,207,193,1) 0%, rgba(30,71,235,0.65) 68%, rgba(30,71,235,0.48) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#23cfc1', endColorstr='#1e47eb', GradientType=1 );
-    height: 400px;
-    padding-top: 75px;
+    height: 25%;
+    padding-top: 5%;
     font-family: 'Montserrat', sans-serif;
     color: white;
 }
