@@ -80,6 +80,12 @@
 </body>
 
 <script>
+    function ignoreArrowKeys(evt) {
+        if([37,38,39,40].indexOf(evt.keyCode) > -1) {
+            evt.preventDefault();
+        }
+    }
+
     function handleMouseDown(evt) {
         evt.preventDefault();
         evt.stopPropagation();
@@ -93,5 +99,6 @@
     }
     document.getElementById('embed-html').addEventListener('mousedown', handleMouseDown, false);
     document.getElementById('embed-html').addEventListener('mouseup', handleMouseUp, false);
+    document.addEventListener("keydown", ignoreArrowKeys, false);
 </script>
 </html>
