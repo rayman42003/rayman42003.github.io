@@ -2,8 +2,87 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2aeaa9d9-c57d-498e-a8a8-ee9fb7008d68" name="Default" comment="">
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\WEB-INF\classes\com\rich\LudumDare30\GdxDefinition.gwt.xml" afterPath="$PROJECT_DIR$/FairyCatcher/WEB-INF/classes/com/rich/LudumDare30/GdxDefinition.gwt.xml" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\WEB-INF\classes\com\rich\LudumDare30\GdxDefinitionSuperdev.gwt.xml" afterPath="$PROJECT_DIR$/FairyCatcher/WEB-INF/classes/com/rich/LudumDare30/GdxDefinitionSuperdev.gwt.xml" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\WEB-INF\classes\com\rich\LudumDare30\client\HtmlLauncher.class" afterPath="$PROJECT_DIR$/FairyCatcher/WEB-INF/classes/com/rich/LudumDare30/client/HtmlLauncher.class" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\WEB-INF\deploy\html\rpcPolicyManifest\manifest.txt" afterPath="$PROJECT_DIR$/FairyCatcher/WEB-INF/deploy/html/rpcPolicyManifest/manifest.txt" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\WEB-INF\deploy\html\symbolMaps\35E815974BCFD0DC02DF1125F5574E97.symbolMap" afterPath="$PROJECT_DIR$/FairyCatcher/WEB-INF/deploy/html/symbolMaps/35E815974BCFD0DC02DF1125F5574E97.symbolMap" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\WEB-INF\deploy\html\symbolMaps\445F0F27E3012B3C7ED2A475633A6A8D.symbolMap" afterPath="$PROJECT_DIR$/FairyCatcher/WEB-INF/deploy/html/symbolMaps/445F0F27E3012B3C7ED2A475633A6A8D.symbolMap" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\WEB-INF\deploy\html\symbolMaps\52E033A0ECD165E73BEB94971D716629.symbolMap" afterPath="$PROJECT_DIR$/FairyCatcher/WEB-INF/deploy/html/symbolMaps/52E033A0ECD165E73BEB94971D716629.symbolMap" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\WEB-INF\deploy\html\symbolMaps\B293A8296896CFFF5BD5BC9FC4845475.symbolMap" afterPath="$PROJECT_DIR$/FairyCatcher/WEB-INF/deploy/html/symbolMaps/B293A8296896CFFF5BD5BC9FC4845475.symbolMap" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\WEB-INF\deploy\html\symbolMaps\CBB73112690183B7FBFB1BE73109BDA8.symbolMap" afterPath="$PROJECT_DIR$/FairyCatcher/WEB-INF/deploy/html/symbolMaps/CBB73112690183B7FBFB1BE73109BDA8.symbolMap" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\WEB-INF\lib\core-1.0.jar" afterPath="$PROJECT_DIR$/FairyCatcher/WEB-INF/lib/core-1.0.jar" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\WEB-INF\lib\gdx-1.3.1-sources.jar" afterPath="$PROJECT_DIR$/FairyCatcher/WEB-INF/lib/gdx-1.3.1-sources.jar" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\WEB-INF\lib\gdx-1.3.1.jar" afterPath="$PROJECT_DIR$/FairyCatcher/WEB-INF/lib/gdx-1.3.1.jar" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\WEB-INF\lib\gdx-backend-gwt-1.3.1-sources.jar" afterPath="$PROJECT_DIR$/FairyCatcher/WEB-INF/lib/gdx-backend-gwt-1.3.1-sources.jar" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\WEB-INF\lib\gdx-backend-gwt-1.3.1.jar" afterPath="$PROJECT_DIR$/FairyCatcher/WEB-INF/lib/gdx-backend-gwt-1.3.1.jar" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\WEB-INF\lib\gdx-box2d-1.3.1-sources.jar" afterPath="$PROJECT_DIR$/FairyCatcher/WEB-INF/lib/gdx-box2d-1.3.1-sources.jar" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\WEB-INF\lib\gdx-box2d-1.3.1.jar" afterPath="$PROJECT_DIR$/FairyCatcher/WEB-INF/lib/gdx-box2d-1.3.1.jar" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\WEB-INF\lib\gdx-box2d-gwt-1.3.1-sources.jar" afterPath="$PROJECT_DIR$/FairyCatcher/WEB-INF/lib/gdx-box2d-gwt-1.3.1-sources.jar" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\WEB-INF\lib\gwt-servlet-2.6.0.jar" afterPath="$PROJECT_DIR$/FairyCatcher/WEB-INF/lib/gwt-servlet-2.6.0.jar" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\WEB-INF\lib\gwt-user-2.6.0.jar" afterPath="$PROJECT_DIR$/FairyCatcher/WEB-INF/lib/gwt-user-2.6.0.jar" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\WEB-INF\lib\json-20090211.jar" afterPath="$PROJECT_DIR$/FairyCatcher/WEB-INF/lib/json-20090211.jar" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\WEB-INF\lib\validation-api-1.0.0.GA-sources.jar" afterPath="$PROJECT_DIR$/FairyCatcher/WEB-INF/lib/validation-api-1.0.0.GA-sources.jar" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\WEB-INF\lib\validation-api-1.0.0.GA.jar" afterPath="$PROJECT_DIR$/FairyCatcher/WEB-INF/lib/validation-api-1.0.0.GA.jar" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\WEB-INF\web.xml" afterPath="$PROJECT_DIR$/FairyCatcher/WEB-INF/web.xml" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\assets\Blue_mode.png" afterPath="$PROJECT_DIR$/FairyCatcher/assets/Blue_mode.png" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\assets\Fairy.png" afterPath="$PROJECT_DIR$/FairyCatcher/assets/Fairy.png" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\assets\Green_mode.png" afterPath="$PROJECT_DIR$/FairyCatcher/assets/Green_mode.png" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\assets\Player.png" afterPath="$PROJECT_DIR$/FairyCatcher/assets/Player.png" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\assets\Red_mode.png" afterPath="$PROJECT_DIR$/FairyCatcher/assets/Red_mode.png" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\assets\assets.txt" afterPath="$PROJECT_DIR$/FairyCatcher/assets/assets.txt" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\assets\badlogic.jpg" afterPath="$PROJECT_DIR$/FairyCatcher/assets/badlogic.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\assets\capture.wav" afterPath="$PROJECT_DIR$/FairyCatcher/assets/capture.wav" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\assets\capture_alt.wav" afterPath="$PROJECT_DIR$/FairyCatcher/assets/capture_alt.wav" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\assets\com\badlogic\gdx\graphics\g3d\particles\particles.fragment.glsl" afterPath="$PROJECT_DIR$/FairyCatcher/assets/com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\assets\com\badlogic\gdx\graphics\g3d\particles\particles.vertex.glsl" afterPath="$PROJECT_DIR$/FairyCatcher/assets/com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\assets\com\badlogic\gdx\graphics\g3d\shaders\default.fragment.glsl" afterPath="$PROJECT_DIR$/FairyCatcher/assets/com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\assets\com\badlogic\gdx\graphics\g3d\shaders\default.vertex.glsl" afterPath="$PROJECT_DIR$/FairyCatcher/assets/com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\assets\com\badlogic\gdx\graphics\g3d\shaders\depth.fragment.glsl" afterPath="$PROJECT_DIR$/FairyCatcher/assets/com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\assets\com\badlogic\gdx\graphics\g3d\shaders\depth.vertex.glsl" afterPath="$PROJECT_DIR$/FairyCatcher/assets/com/badlogic/gdx/graphics/g3d/shaders/depth.vertex.glsl" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\assets\com\badlogic\gdx\utils\arial-15.fnt" afterPath="$PROJECT_DIR$/FairyCatcher/assets/com/badlogic/gdx/utils/arial-15.fnt" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\assets\com\badlogic\gdx\utils\arial-15.png" afterPath="$PROJECT_DIR$/FairyCatcher/assets/com/badlogic/gdx/utils/arial-15.png" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\assets\data\test.fnt" afterPath="$PROJECT_DIR$/FairyCatcher/assets/data/test.fnt" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\assets\data\test.png" afterPath="$PROJECT_DIR$/FairyCatcher/assets/data/test.png" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\assets\testAni.png" afterPath="$PROJECT_DIR$/FairyCatcher/assets/testAni.png" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\35E815974BCFD0DC02DF1125F5574E97.cache.html" afterPath="$PROJECT_DIR$/FairyCatcher/html/35E815974BCFD0DC02DF1125F5574E97.cache.html" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\445F0F27E3012B3C7ED2A475633A6A8D.cache.html" afterPath="$PROJECT_DIR$/FairyCatcher/html/445F0F27E3012B3C7ED2A475633A6A8D.cache.html" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\52E033A0ECD165E73BEB94971D716629.cache.html" afterPath="$PROJECT_DIR$/FairyCatcher/html/52E033A0ECD165E73BEB94971D716629.cache.html" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\B293A8296896CFFF5BD5BC9FC4845475.cache.html" afterPath="$PROJECT_DIR$/FairyCatcher/html/B293A8296896CFFF5BD5BC9FC4845475.cache.html" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\CBB73112690183B7FBFB1BE73109BDA8.cache.html" afterPath="$PROJECT_DIR$/FairyCatcher/html/CBB73112690183B7FBFB1BE73109BDA8.cache.html" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\clear.cache.gif" afterPath="$PROJECT_DIR$/FairyCatcher/html/clear.cache.gif" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\gwt\chrome\chrome.css" afterPath="$PROJECT_DIR$/FairyCatcher/html/gwt/chrome/chrome.css" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\gwt\chrome\chrome_rtl.css" afterPath="$PROJECT_DIR$/FairyCatcher/html/gwt/chrome/chrome_rtl.css" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\gwt\chrome\images\corner.png" afterPath="$PROJECT_DIR$/FairyCatcher/html/gwt/chrome/images/corner.png" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\gwt\chrome\images\corner_ie6.png" afterPath="$PROJECT_DIR$/FairyCatcher/html/gwt/chrome/images/corner_ie6.png" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\gwt\chrome\images\hborder.png" afterPath="$PROJECT_DIR$/FairyCatcher/html/gwt/chrome/images/hborder.png" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\gwt\chrome\images\hborder_ie6.png" afterPath="$PROJECT_DIR$/FairyCatcher/html/gwt/chrome/images/hborder_ie6.png" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\gwt\chrome\images\ie6\corner_dialog_topleft.png" afterPath="$PROJECT_DIR$/FairyCatcher/html/gwt/chrome/images/ie6/corner_dialog_topleft.png" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\gwt\chrome\images\ie6\corner_dialog_topright.png" afterPath="$PROJECT_DIR$/FairyCatcher/html/gwt/chrome/images/ie6/corner_dialog_topright.png" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\gwt\chrome\images\ie6\hborder_blue_shadow.png" afterPath="$PROJECT_DIR$/FairyCatcher/html/gwt/chrome/images/ie6/hborder_blue_shadow.png" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\gwt\chrome\images\ie6\hborder_gray_shadow.png" afterPath="$PROJECT_DIR$/FairyCatcher/html/gwt/chrome/images/ie6/hborder_gray_shadow.png" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\gwt\chrome\images\ie6\vborder_blue_shadow.png" afterPath="$PROJECT_DIR$/FairyCatcher/html/gwt/chrome/images/ie6/vborder_blue_shadow.png" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\gwt\chrome\images\ie6\vborder_gray_shadow.png" afterPath="$PROJECT_DIR$/FairyCatcher/html/gwt/chrome/images/ie6/vborder_gray_shadow.png" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\gwt\chrome\images\splitPanelThumb.png" afterPath="$PROJECT_DIR$/FairyCatcher/html/gwt/chrome/images/splitPanelThumb.png" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\gwt\chrome\images\vborder.png" afterPath="$PROJECT_DIR$/FairyCatcher/html/gwt/chrome/images/vborder.png" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\gwt\chrome\images\vborder_ie6.png" afterPath="$PROJECT_DIR$/FairyCatcher/html/gwt/chrome/images/vborder_ie6.png" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\hosted.html" afterPath="$PROJECT_DIR$/FairyCatcher/html/hosted.html" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\html.nocache.js" afterPath="$PROJECT_DIR$/FairyCatcher/html/html.nocache.js" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\logo.png" afterPath="$PROJECT_DIR$/FairyCatcher/html/logo.png" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\soundmanager2-jsmin.js" afterPath="$PROJECT_DIR$/FairyCatcher/html/soundmanager2-jsmin.js" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\soundmanager2-nodebug-jsmin.js" afterPath="$PROJECT_DIR$/FairyCatcher/html/soundmanager2-nodebug-jsmin.js" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\soundmanager2-setup.js" afterPath="$PROJECT_DIR$/FairyCatcher/html/soundmanager2-setup.js" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\soundmanager2.swf" afterPath="$PROJECT_DIR$/FairyCatcher/html/soundmanager2.swf" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\soundmanager2_debug.swf" afterPath="$PROJECT_DIR$/FairyCatcher/html/soundmanager2_debug.swf" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\soundmanager2_flash9.swf" afterPath="$PROJECT_DIR$/FairyCatcher/html/soundmanager2_flash9.swf" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\html\soundmanager2_flash9_debug.swf" afterPath="$PROJECT_DIR$/FairyCatcher/html/soundmanager2_flash9_debug.swf" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\index.html" afterPath="$PROJECT_DIR$/FairyCatcher/index.html" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\refresh.png" afterPath="$PROJECT_DIR$/FairyCatcher/refresh.png" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\soundmanager2-jsmin.js" afterPath="$PROJECT_DIR$/FairyCatcher/soundmanager2-jsmin.js" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\soundmanager2-setup.js" afterPath="$PROJECT_DIR$/FairyCatcher/soundmanager2-setup.js" />
+      <change type="MOVED" beforePath="C:\Users\Richmond\Desktop\Jobs &amp; Internships\Website\FairyHunter\styles.css" afterPath="$PROJECT_DIR$/FairyCatcher/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BoatSimulator/index.html" afterPath="$PROJECT_DIR$/BoatSimulator/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FairyHunter/index.html" afterPath="$PROJECT_DIR$/FairyHunter/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Website.iws" />
@@ -27,41 +106,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0" vertical-offset="225" max-vertical-offset="2490">
-              <caret line="23" column="67" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
+            <state vertical-scroll-proportion="0.41501975" vertical-offset="360" max-vertical-offset="2490">
+              <caret line="45" column="76" selection-start-line="45" selection-start-column="76" selection-end-line="45" selection-end-column="76" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FairyHunter/styles.css">
+      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1440">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FairyHunter/index.html">
+        <entry file="file://$PROJECT_DIR$/FairyCatcher/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.25" vertical-offset="621" max-vertical-offset="1380">
-              <caret line="61" column="27" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
+            <state vertical-scroll-proportion="-14.416667" vertical-offset="104" max-vertical-offset="1605">
+              <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="61" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BoatSimulator/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28853756" vertical-offset="366" max-vertical-offset="1395">
-              <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+            <state vertical-scroll-proportion="-9.625" vertical-offset="219" max-vertical-offset="1815">
+              <caret line="30" column="60" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -83,10 +162,11 @@
         <option value="$PROJECT_DIR$/js/template.html" />
         <option value="$PROJECT_DIR$/template.html" />
         <option value="$PROJECT_DIR$/js/custom.css" />
-        <option value="$PROJECT_DIR$/css/custom.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/FairyHunter/index.html" />
         <option value="$PROJECT_DIR$/BoatSimulator/index.html" />
+        <option value="$PROJECT_DIR$/FairyCatcher/index.html" />
+        <option value="$PROJECT_DIR$/css/custom.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -165,7 +245,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="FairyHunter" />
+              <option name="myItemId" value="FairyCatcher" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -328,6 +408,70 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2490">
+          <caret line="123" column="75" selection-start-line="123" selection-start-column="75" selection-end-line="123" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FairyCatcher/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1440">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FairyCatcher/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="104" max-vertical-offset="1605">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoatSimulator/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="219" max-vertical-offset="1815">
+          <caret line="30" column="60" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2490">
+          <caret line="23" column="67" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FairyCatcher/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1440">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FairyCatcher/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="621" max-vertical-offset="1380">
+          <caret line="61" column="27" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BoatSimulator/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="366" max-vertical-offset="1395">
+          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2490">
           <caret line="129" column="144" selection-start-line="129" selection-start-column="144" selection-end-line="129" selection-end-column="144" />
           <folding />
         </state>
@@ -345,7 +489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="420">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -369,7 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="420">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -393,7 +535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="420">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -417,7 +558,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="420">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -441,7 +581,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="420">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -465,7 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="420">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -473,46 +611,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="420">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom.css">
+    <entry file="file://$PROJECT_DIR$/FairyCatcher/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37012988" vertical-offset="0" max-vertical-offset="770">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FairyHunter/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1440">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FairyHunter/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.25" vertical-offset="621" max-vertical-offset="1380">
-          <caret line="61" column="27" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0" vertical-offset="225" max-vertical-offset="2490">
-          <caret line="23" column="67" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
+        <state vertical-scroll-proportion="-14.416667" vertical-offset="104" max-vertical-offset="1605">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="61" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BoatSimulator/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28853756" vertical-offset="366" max-vertical-offset="1395">
-          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+        <state vertical-scroll-proportion="-9.625" vertical-offset="219" max-vertical-offset="1815">
+          <caret line="30" column="60" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FairyCatcher/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.038314175" vertical-offset="135" max-vertical-offset="1440">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41501975" vertical-offset="360" max-vertical-offset="2490">
+          <caret line="45" column="76" selection-start-line="45" selection-start-column="76" selection-end-line="45" selection-end-column="76" />
           <folding />
         </state>
       </provider>
