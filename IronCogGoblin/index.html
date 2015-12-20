@@ -1,198 +1,168 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<link href="../css/bootstrap.min.css" rel="stylesheet" />
-		<link href="../css/custom.css" rel="stylesheet" />
-		<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
-		<link rel="icon" href="../assets/favicon.ico">
-		<title>Unity Web Player | IronCogGoblin</title>
-		<script type='text/javascript' src='https://ssl-webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/jquery.min.js'></script>
-		<script type="text/javascript">
-		<!--
-		var unityObjectUrl = "http://webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/UnityObject2.js";
-		if (document.location.protocol == 'https:')
-			unityObjectUrl = unityObjectUrl.replace("http://", "https://ssl-");
-		document.write('<script type="text\/javascript" src="' + unityObjectUrl + '"><\/script>');
-		-->
-		</script>
-		<script type="text/javascript">
-		<!--
-			var config = {
-				width: 864,
-				height: 486,
-				params: { enableDebugging:"0" }
-				
-			};
-			var u = new UnityObject2(config);
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link href="../css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="../css/custom.css" rel="stylesheet"/>
+    <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+    <link rel="icon" href="../assets/favicon.ico">
+    <title>Unity WebGL Player | IronCogGoblin</title>
+    <script src="TemplateData/UnityProgress.js"></script>
+    <style type="text/css">
+        div.logo {
+            width: 204px;
+            height: 38px;
+            float: left;
+            background: url(logo.png) 0 0 no-repeat;
+            position: relative;
+            z-index: 10;
+        }
 
-			jQuery(function() {
+        div.title {
+            height: 38px;
+            line-height: 38px;
+            padding: 0 10px;
+            margin: 0 1px 0 0;
+            float: right;
+            color: #333;
+            font-size: 18px;
+            position: relative;
+            z-index: 10;
+        }
 
-				var $missingScreen = jQuery("#unityPlayer").find(".missing");
-				var $brokenScreen = jQuery("#unityPlayer").find(".broken");
-				$missingScreen.hide();
-				$brokenScreen.hide();
-				
-				u.observeProgress(function (progress) {
-					switch(progress.pluginStatus) {
-						case "broken":
-							$brokenScreen.find("a").click(function (e) {
-								e.stopPropagation();
-								e.preventDefault();
-								u.installPlugin();
-								return false;
-							});
-							$brokenScreen.show();
-						break;
-						case "missing":
-							$missingScreen.find("a").click(function (e) {
-								e.stopPropagation();
-								e.preventDefault();
-								u.installPlugin();
-								return false;
-							});
-							$missingScreen.show();
-						break;
-						case "installed":
-							$missingScreen.remove();
-						break;
-						case "first":
-						break;
-					}
-				});
-				u.initPlugin(jQuery("#unityPlayer")[0], "Build.unity3d");
-			});
-		-->
-		</script>
-		<style type="text/css">
-		<!--
+        .template-wrap {
+            position: relative;
+            top: 0%;
+            left: 0%;
+        }
+
+        .template-wrap canvas {
+            margin: 0 0 10px 0;
+            position: relative;
+            z-index: 9;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            -moz-box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        }
+
+        .fullscreen {
+            float: right;
+            position: relative;
+            z-index: 10;
+        }
+
         .speciallink {
             color: #424242;
         }
-        .speciallink:hover{
+
+        .speciallink:hover {
             color: #FFFFFF;
         }
-		div.content {
-			margin: auto;
-			width: 960px;
-		}
-		div.broken,
-		div.missing {
-			margin: auto;
-			position: relative;
-			top: 50%;
-			width: 193px;
-		}
-		div.broken a,
-		div.missing a {
-			height: 63px;
-			position: relative;
-			top: -31px;
-		}
-		div.broken img,
-		div.missing img {
-			border-width: 0px;
-		}
-		div.broken {
-			display: none;
-		}
-		div#unityPlayer {
-			cursor: default;
-			height: 600px;
-			width: 960px;
-		}
-		-->
-		</style>
-	</head>
-	<body>
-	<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-		<div class="container">
-			<div class="navbar-header">
-				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
-					<span class="sr-only">Toggle navigation</span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-				</button>
-				<a class="navbar-brand" href="..">Richmond Chang</a>
-			</div>
-			<div class="navbar-collapse collapse">
-				<ul class="nav navbar-nav">
-					<li> <a href="..">Home</a> </li>
-					<li> <a href="..#about">About</a> </li>
-					<li> <a href="..#projects">Projects</a> </li>
-				</ul>
-			</div>
-		</div>
-	</div>
-	<div class="jumbotron">
-		<div class="container">
-			<div class="row">
-				<h1>IronCogGoblin</h1>
-			</div>
-            <div class="row col-lg-offset-1">
-                <h3>&laquo; created with <a class="speciallink" href="http://unity3d.com/unity/" title="Go to unity3d.com">Unity</a> &raquo;</h3>
+    </style>
+</head>
+<body>
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="..">Richmond Chang</a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li><a href="..">Home</a></li>
+                <li><a href="..#about">About</a></li>
+                <li><a href="..#projects">Projects</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="jumbotron">
+    <div class="container">
+        <div class="row">
+            <h1>IronCogGoblin</h1>
+        </div>
+        <div class="row">
+            <h5>Please note it takes some time to load the WebGL version. It works, I promise :)</h5>
+        </div>
+        <div class="row">
+            <div class="template-wrap">
+                <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" height="600px"
+                        width="960px"></canvas>
+                <br>
+
+                <div class="logo"></div>
             </div>
-			<div class="row">
-				<div class="content">
-					<div id="unityPlayer">
-						<div class="missing">
-							<a class="speciallink" href="http://unity3d.com/webplayer/" title="Unity Web Player. Install now!">
-								<img alt="Unity Web Player. Install now!" src="http://webplayer.unity3d.com/installation/getunity.png" width="193" height="63" />
-							</a>
-						</div>
-						<div class="broken">
-							<a class="speciallink" href="http://unity3d.com/webplayer/" title="Unity Web Player. Install now! Restart your browser after install.">
-								<img alt="Unity Web Player. Install now! Restart your browser after install." src="http://webplayer.unity3d.com/installation/getunityrestart.png" width="193" height="63" />
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-    <div id="description" class="container">
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h3>Instructions</h3>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <p>&laquo; created with <a class="speciallink" href="http://unity3d.com/" title="Go to unity3d.com">Unity</a> &raquo;
+                </p>
             </div>
-            <div class="panel-body">
-                <div class="row">
-                    <div class="col-md-10 col-md-offset-1">
-                        <h4>
-                            Follow the instructions in game!
-                            Use A/D or Left/Right Arrow keys to move the player.  Press W/Up Arrow to jump.
-                            Use Spacebar to steal items like treasure chests.  Use Down to hide in barrels.
-                            If you ever get stuck, press R to restart the level.
-                        </h4>
-                    </div>
+            <div class="col-md-3 col-md-offset-4">
+                <div class="fullscreen"><img src="TemplateData/fullscreen.png" width="38" height="38" alt="Fullscreen"
+                                             title="Fullscreen" onclick="SetFullscreen(1);"/></div>
+                <div class="title">IronCogGoblin</div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="description" class="container">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h3>Instructions</h3>
+        </div>
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1">
+                    <h4>
+                        Follow the instructions in game!
+                        Use A/D or Left/Right Arrow keys to move the player. Press W/Up Arrow to jump.
+                        Use Spacebar to steal items like treasure chests. Use Down to hide in barrels.
+                        If you ever get stuck, press R to restart the level.
+                    </h4>
                 </div>
-                <div class="row">
-                    <div class="col-md-10 col-md-offset-1">
-                        <h4>This is a 2D platformer where you play as a goblin trying to steal treasure.
-                            You have to platform your way through traps and sneak past guards to get to the exit.
-                            Developed in Unity for the Ludum Dare compo (48 hours solo project).
-                        </h4>
-                    </div>
+            </div>
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1">
+                    <h4>This is a 2D platformer where you play as a goblin trying to steal treasure.
+                        You have to platform your way through traps and sneak past guards to get to the exit.
+                        Developed in Unity for the Ludum Dare compo (48 hours solo project).
+                    </h4>
                 </div>
-                <div class="row">
-                    <div class="col-md-10 col-md-offset-1">
-                        <h4>
-                            <a href="http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=35247">Ludum Dare 33</a> Submission
-                        </h4>
-                    </div>
+            </div>
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1">
+                    <h4>
+                        <a href="http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=35247">Ludum Dare 33</a>
+                        Submission
+                    </h4>
                 </div>
-                <div class="row">
-                    <div class="col-md-10 col-md-offset-1">
-                        <h4>
-                            <a href="https://github.com/rayman42003/LudumDare33">Source</a>
-                        </h4>
-                    </div>
+            </div>
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1">
+                    <h4>
+                        <a href="https://github.com/rayman42003/LudumDare33">Source</a>
+                    </h4>
                 </div>
             </div>
         </div>
-
-    </body>
+    </div>
+    <script type='text/javascript'>
+        var Module = {
+            TOTAL_MEMORY: 268435456,
+            errorhandler: null,			// arguments: err, url, line. This function must return 'true' if the error is handled, otherwise 'false'
+            compatibilitycheck: null,
+            dataUrl: "Release/WebGL.data",
+            codeUrl: "Release/WebGL.js",
+            memUrl: "Release/WebGL.mem",
+        };
+    </script>
+    <script src="Release/UnityLoader.js"></script>
+</body>
 </html>
